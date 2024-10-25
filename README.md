@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Yuuj%20In%20Jeong&fontSize=50&animation=fadeIn&desc=Pelican%20Mindset%20Developer%20🦈&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YujinJeong&fontSize=50&animation=fadeIn&desc=Pelican%20Mindset%20Developer%20🦈&descAlignY=70)
 
 <div align="center">
   
