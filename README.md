@@ -68,15 +68,30 @@
 
 각 연도별로 활동들을 구분하고, 중요 활동은 서브 항목으로 구체적으로 작성했습니다. 수상내역은 따로 섹션을 만들어서 추가하시는 것을 추천드립니다. 예를 들어:
 
-## 🏅 Awards & Achievements
+## 🏅 Main Awards & Project
 ### 2024
 - 수상내역 1
-- 수상내역 2
+- 2024년 KHreative StartUP Dream 2.0 '창업아이디어 오디션 | 혁신상 (경희대학교 SW중심사업단)
+- 2024 KHU Valley Program(KVP) 12기 [고급] | 장려상
+  
 
 ### 2023
-- 수상내역 1
-- 수상내역 2
-  <br>
+- 2023 창원 빅데이터 공모전 아이디어 부문 대상 | (1위)
+- 2022학년도 KVS(KHU Valley Start-Up)육성사업 7기 | 성장팀 수상 (300만원 상당)
+- 2023 KHU Valley Program(KVP) 11기 [중급] | 참여
+- 2023 KHU Valley Program(KVP) 10기 [초급] | 장려상
+- 서울특별시 유공자 표창장 | 봉사부문 
+
+### 2022
+
+### 2021
+
+
+<br>
+
+
+- 
+
   ## 🛠 Tech Stack 🛠
   
   ### 💪 Strong
@@ -117,7 +132,7 @@
   ## 🤝 Let's Collaborate!
   > 새로운 도전과 협업을 환영합니다
     
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YuujInJeong)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/YuujInJeong)
     
 </div>
 
