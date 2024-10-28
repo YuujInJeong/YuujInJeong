@@ -55,31 +55,34 @@
   ![Computer Science](https://img.shields.io/badge/Computer%20Science-FF6B6B?style=flat-square&logo=canonical&logoColor=white)
   ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00B2FF?style=flat-square&logo=ai&logoColor=white)
   
-  ### 🔨 Tools
+  ### 🔨 Development Tools
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   
-  <br>
+  ### 🎨 Design & Multimedia Tools
+  ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+  ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+  ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
   
-  ## 👀 Areas of Interest
+  ### 👀 Areas of Interest
   - 💻 AI/ML Engineering
   - 🔐 Reverse Engineering (CTF)
   - ☁️ Cloud Computing
   - 🖥️ System Architecture
   
-  <br>
-  
-  ## 📊 GitHub Stats
-  
+  ### 📊 GitHub Stats
   ![Yuuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuujInJeong&show_icons=true&theme=radical)
-  
-  <br>
-  
-  ## 🤝 Let's Collaborate!
-  > 새로운 도전과 협업을 환영합니다
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YuujInJeong)
-  
+  <btr>
+    ## 🤝 Let's Collaborate!
+    > 새로운 도전과 협업을 환영합니다
+    
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YuujInJeong)
+    
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
