@@ -78,10 +78,11 @@
   ### 📊 GitHub Stats
   ![Yuuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuujInJeong&show_icons=true&theme=radical)
   <btr>
-    ## 🤝 Let's Collaborate!
-    > 새로운 도전과 협업을 환영합니다
+  
+  ## 🤝 Let's Collaborate!
+  > 새로운 도전과 협업을 환영합니다
     
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YuujInJeong)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YuujInJeong)
     
 </div>
 
