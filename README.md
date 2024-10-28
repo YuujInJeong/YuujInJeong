@@ -33,6 +33,8 @@
     - 동북고등학교 Python 교육
 - **서울 동북고등학교** 
   - 고교 동아리 알고리즘 2반 CA 강사 (대면)
+- **DADINGCODING**
+  - WEB FE, PM
 
 <br>
 
