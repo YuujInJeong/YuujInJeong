@@ -36,6 +36,7 @@
 - **DADINGCODING**
   - WEB FE, PM
 
+
 <br>
 
 ### 2023
@@ -73,6 +74,11 @@
 - 수상내역 1
 - 2024년 KHreative StartUP Dream 2.0 '창업아이디어 오디션 | 혁신상 (경희대학교 SW중심사업단)
 - 2024 KHU Valley Program(KVP) 12기 [고급] | 장려상
+- Sesac 해커톤 | 본선 34위로 진출
+- 2024 고용노동 공공데이터 공모전 | 장려상
+- 2024 GDSC KAIST 해커톤 | Sparkling톤 참여
+- Deploy 세션 프로젝트 LAID(라인드로잉 자동화), LINK(링크 저장 자동화)
+
   
 
 ### 2023
