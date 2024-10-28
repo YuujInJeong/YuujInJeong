@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YujinJeong&fontSize=50&animation=fadeIn&desc=Pelican%20Mindset%20Developer%20🦈&descAlignY=70)
 
-<div align="center">
+<div align="left">
   
   ### 🏃‍♀️ Just Do It First! 🏃‍♀️
   > "일단 시도하는 펠리컨적 마인드" Developer
