@@ -4,6 +4,12 @@
   
   ### 🏃‍♀️ Just Do It First! 🏃‍♀️
   > "일단 시도하는 펠리컨적 마인드" Developer
+
+
+<a href="https://github.com/YuujInJeong/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://www.instagram.com/dbwlswjd_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:yujin010917@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/lkh3409@khu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@yujin_jeong/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
   
   <br>
   
@@ -136,9 +142,11 @@
   > 새로운 도전과 협업을 환영합니다
     ## 🤝 Let's Collaborate!
 > 새로운 도전과 협업을 환영합니다
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-[Velog](https://velog.io/@yujin_jeong/posts)
+> 
+<a href="https://github.com/YuujInJeong/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://www.instagram.com/dbwlswjd_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:yujin010917@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/lkh3409@khu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@yujin_jeong/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
     
 </div>
