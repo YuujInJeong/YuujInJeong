@@ -134,8 +134,12 @@
   
   ## 🤝 Let's Collaborate!
   > 새로운 도전과 협업을 환영합니다
-    
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+    ## 🤝 Let's Collaborate!
+> 새로운 도전과 협업을 환영합니다
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+[Velog](https://velog.io/@yujin_jeong/posts)
+
     
 </div>
 
