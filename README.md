@@ -147,6 +147,7 @@
 <a href="https://www.instagram.com/dbwlswjd_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:yujin010917@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/yujin010917@khu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@yujin_jeong/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://realalpaca01.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
     
 </div>
