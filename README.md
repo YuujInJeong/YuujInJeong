@@ -194,6 +194,13 @@
 - [🚀 GCP와 Gemini로 첫 발걸음 내딛기 - Cloud Run 실습 회고](https://velog.io/@yujin_jeong/GCP%EC%99%80-Gemini%EB%A1%9C-%EC%B2%AB-%EB%B0%9C%EA%B1%B8%EC%9D%8C-%EB%82%B4%EB%94%9B%EA%B8%B0-Cloud-Run-%EC%8B%A4%EC%8A%B5-%ED%9A%8C%EA%B3%A0)
 ### Velog Latest Blog Posts
 
+- [RSS와 깃헙 액션(Github action)](https://velog.io/@yujin_jeong/RSS%EC%99%80-%EA%B9%83%ED%97%99-%EC%95%A1%EC%85%98Github-action)
+- [OLTP, CDC, ERP, 이벤트 콜렉터](https://velog.io/@yujin_jeong/OLTP-CDC-ERP-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%BD%9C%EB%A0%89%ED%84%B0)
+- [데이터 인프라란?](https://velog.io/@yujin_jeong/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%9E%80)
+- [개발자를 위한 필수 도구 | Mermaid.live와 aquerytool로 다이어그램 쉽게 그리기](https://velog.io/@yujin_jeong/mermaidaquerytool)
+- [🚀 GCP와 Gemini로 첫 발걸음 내딛기 - Cloud Run 실습 회고](https://velog.io/@yujin_jeong/GCP%EC%99%80-Gemini%EB%A1%9C-%EC%B2%AB-%EB%B0%9C%EA%B1%B8%EC%9D%8C-%EB%82%B4%EB%94%9B%EA%B8%B0-Cloud-Run-%EC%8B%A4%EC%8A%B5-%ED%9A%8C%EA%B3%A0)
+### Velog Latest Blog Posts
+
 - [OLTP, CDC, ERP, 이벤트 콜렉터](https://velog.io/@yujin_jeong/OLTP-CDC-ERP-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%BD%9C%EB%A0%89%ED%84%B0)
 - [데이터 인프라란?](https://velog.io/@yujin_jeong/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%9E%80)
 - [개발자를 위한 필수 도구 | Mermaid.live와 aquerytool로 다이어그램 쉽게 그리기](https://velog.io/@yujin_jeong/mermaidaquerytool)
