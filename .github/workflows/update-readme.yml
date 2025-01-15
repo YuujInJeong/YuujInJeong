@@ -1,0 +1,40 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */1 * * *" # 매 시간 정각에 실행
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run update script
+        run: node readmeUpdate.js
+
+      - name: Commit README
+        run: |
+          git config --local user.name "YuujInJeong" # GitHub 사용자 이름
+          git config --local user.email "yujin010917@khu.ac.kr" # GitHub 이메일
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "Update README with latest blog posts"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

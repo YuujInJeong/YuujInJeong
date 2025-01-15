@@ -23,7 +23,15 @@
   <br>
 
 ## 🏆 Experience
-  
+
+### 2025
+- ** 카카오테크 부트캠프 2기 클라우드 네이티브 과정**
+- **경희대학교 KHUDA** 
+  - 데이터/인공지능 동아리 회장 (7기)
+  - 딥러닝 세션장
+
+<br>
+
 ### 2024
 - **경희대학교 KHUDA** 
   - 데이터/인공지능 동아리 회장 (6기)
@@ -41,7 +49,8 @@
   - 고교 동아리 알고리즘 2반 CA 강사 (대면)
 - **DADINGCODING**
   - WEB FE, PM
-
+- **네이버 클라우드 주관 Naver AI RUSH 24 **
+  - 기획 및 BE
 
 <br>
 
@@ -79,21 +88,28 @@
 - 2024 KHU Valley Program(KVP) 12기 [고급] | 장려상
 - Sesac 해커톤 | 본선 34위로 진출
 - 2024 고용노동 공공데이터 공모전 | 장려상
+- 2024 서울시 빅데이터캠퍼스 공모전 | 우수상
+- 2024 경남 신사업 발굴 아이디어 공모전 | 우수상
+ -2024년 충북 공공데이터 활용 창업경진대회 | 본선 진출
 - 2024 GDSC KAIST 해커톤 | Sparkling톤 참여
 - Deploy 세션 프로젝트 LAID(라인드로잉 자동화), LINK(링크 저장 자동화)
+- 안산문화재단 4기, 소프트웨어마에스트로 서포터즈 4기
 
   
-
 ### 2023
 - 2023 창원 빅데이터 공모전 아이디어 부문 대상 | (1위)
 - 2022학년도 KVS(KHU Valley Start-Up)육성사업 7기 | 성장팀 수상 (300만원 상당)
 - 2023 KHU Valley Program(KVP) 11기 [중급] | 참여
-- 2023 KHU Valley Program(KVP) 10기 [초급] | 장려상
+- 2023 KHU Valley Program(KVP) 10기 [초급] | 장려상 (50만원)
 - 서울특별시 유공자 표창장 | 봉사부문 
+- CTL 서포터즈 1기, CTL 서포터즈 2기, KHUMILY 8기
 
 ### 2022
+- KHUMILY 7기
 
 ### 2021
+- 마이커리어스쿨 자기이해반 1기 수료
+
 
 
 <br>
@@ -153,3 +169,19 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+
+### Tistory Latest Blog Posts
+
+- [고윳값 분해와 푸리에 변환의 관계](https://realalpaca01.tistory.com/entry/%EA%B3%A0%EC%9C%B3%EA%B0%92-%EB%B6%84%ED%95%B4%EC%99%80-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98%EC%9D%98-%EA%B4%80%EA%B3%84)
+- [Mathematical Definitions in Data Science](https://realalpaca01.tistory.com/entry/Mathematical-Definitions-in-Data-Science)
+- [[머신러닝 수학의 바이블] 선형대수학 Part 6 - 선형 사상과 이미지/커널](https://realalpaca01.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%88%98%ED%95%99%EC%9D%98-%EB%B0%94%EC%9D%B4%EB%B8%94-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-Part-6-%EC%84%A0%ED%98%95-%EC%82%AC%EC%83%81%EA%B3%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%BB%A4%EB%84%90)
+- [[머신러닝 수학의 바이블] 선형대수학 Part 5 - 선형 사상과 기저변환](https://realalpaca01.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%88%98%ED%95%99%EC%9D%98-%EB%B0%94%EC%9D%B4%EB%B8%94-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-Part-5-%EC%84%A0%ED%98%95-%EC%82%AC%EC%83%81%EA%B3%BC-%EA%B8%B0%EC%A0%80%EB%B3%80%ED%99%98)
+- [[용어] 아벨군(Abelian Group)](https://realalpaca01.tistory.com/entry/%EC%9A%A9%EC%96%B4-%EC%95%84%EB%B2%A8%EA%B5%B0Abelian-Group)
+
+### Velog Latest Blog Posts
+
+- [OLTP, CDC, ERP, 이벤트 콜렉터](https://velog.io/@yujin_jeong/OLTP-CDC-ERP-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%BD%9C%EB%A0%89%ED%84%B0)
+- [데이터 인프라란?](https://velog.io/@yujin_jeong/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%9E%80)
+- [개발자를 위한 필수 도구 | Mermaid.live와 aquerytool로 다이어그램 쉽게 그리기](https://velog.io/@yujin_jeong/mermaidaquerytool)
+- [🚀 GCP와 Gemini로 첫 발걸음 내딛기 - Cloud Run 실습 회고](https://velog.io/@yujin_jeong/GCP%EC%99%80-Gemini%EB%A1%9C-%EC%B2%AB-%EB%B0%9C%EA%B1%B8%EC%9D%8C-%EB%82%B4%EB%94%9B%EA%B8%B0-Cloud-Run-%EC%8B%A4%EC%8A%B5-%ED%9A%8C%EA%B3%A0)
+- [A/B 테스트? 너 누군데](https://velog.io/@yujin_jeong/AB-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%84%88-%EB%88%84%EA%B5%B0%EB%8D%B0-13bkcbei)
