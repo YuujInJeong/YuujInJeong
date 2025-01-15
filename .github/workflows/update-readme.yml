@@ -24,7 +24,7 @@ jobs:
 
       - name: Run update script
         run: node readmeUpdate.js
-
+      
       - name: Commit README
         run: |
           git config --local user.name "YuujInJeong" # GitHub 사용자 이름
@@ -32,10 +32,10 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m "Update README with latest blog posts"
-            git push
+            git push https://x-access-token:${{ secrets.GH_GITHUB_TOKEN }}@github.com/YuujInJeong/YuujInJeong.git
           else
             echo "No changes to commit"
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_GITHUB_TOKEN }}
-
+          GH_GITHUB_TOKEN: ${{ secrets.GH_GITHUB_TOKEN }}
+      
