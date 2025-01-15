@@ -23,19 +23,16 @@ jobs:
         run: npm ci
 
       - name: Run update script
+        id: update-readme
         run: node readmeUpdate.js
-      
+
       - name: Commit README
+        if: success() # readmeUpdate.js가 0으로 종료될 때만 실행
         run: |
           git config --local user.name "YuujInJeong" # GitHub 사용자 이름
           git config --local user.email "yujin010917@khu.ac.kr" # GitHub 이메일
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
-            git commit -m "Update README with latest blog posts"
-            git push https://x-access-token:${{ secrets.GH_GITHUB_TOKEN }}@github.com/YuujInJeong/YuujInJeong.git
-          else
-            echo "No changes to commit"
-          fi
+          git add README.md
+          git commit -m "Update README with latest blog posts"
+          git push https://x-access-token:${{ secrets.GH_GITHUB_TOKEN }}@github.com/YuujInJeong/YuujInJeong.git
         env:
           GH_GITHUB_TOKEN: ${{ secrets.GH_GITHUB_TOKEN }}
-      
