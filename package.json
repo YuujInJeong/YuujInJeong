@@ -1,12 +1,11 @@
 {
   "name": "jeong-yujin",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "readmeUpdate.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node readmeUpdate.js"
-    // 추가
+    "start": "node readmeUpdate.js"
   },
   "keywords": [],
   "author": "",
