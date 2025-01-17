@@ -3,42 +3,52 @@ import Parser from "rss-parser";
 
 const readmePath = "README.md";
 let readmeContent = readFileSync(readmePath, "utf8");
-const parser = new Parser();
+
+// 요청 헤더 설정
+const parser = new Parser({
+    headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+        "Accept": "application/rss+xml, application/xml, text/xml",
+    },
+});
 
 (async () => {
-    // RSS 피드 가져오기
-    const tistoryFeed = await parser.parseURL("https://realalpaca01.tistory.com/rss");
-    const velogFeed = await parser.parseURL("https://v2.velog.io/rss/@yujin_jeong");
+    try {
+        // RSS 피드 가져오기
+        const tistoryFeed = await parser.parseURL("https://realalpaca01.tistory.com/rss");
+        const velogFeed = await parser.parseURL("https://v2.velog.io/rss/@yujin_jeong");
 
-    // 최신 블로그 포스트 생성
-    let tistoryPosts = "### Tistory Latest Blog Posts\n\n";
-    for (let i = 0; i < 5 && i < tistoryFeed.items.length; i++) {
-        const { title, link } = tistoryFeed.items[i];
-        tistoryPosts += `- [${title}](${link})\n`;
-    }
+        // Tistory 블로그 포스트 생성
+        let tistoryPosts = "### Tistory Latest Blog Posts\n\n";
+        for (let i = 0; i < 5 && i < tistoryFeed.items.length; i++) {
+            const { title, link } = tistoryFeed.items[i];
+            tistoryPosts += `- [${title}](${link})\n`;
+        }
 
-    let velogPosts = "### Velog Latest Blog Posts\n\n";
-    for (let i = 0; i < 5 && i < velogFeed.items.length; i++) {
-        const { title, link } = velogFeed.items[i];
-        velogPosts += `- [${title}](${link})\n`;
-    }
+        // Velog 블로그 포스트 생성
+        let velogPosts = "### Velog Latest Blog Posts\n\n";
+        for (let i = 0; i < 5 && i < velogFeed.items.length; i++) {
+            const { title, link } = velogFeed.items[i];
+            velogPosts += `- [${title}](${link})\n`;
+        }
 
-    const combinedPosts = `${tistoryPosts}\n${velogPosts}`;
+        // 새로운 README 내용 구성
+        const combinedPosts = `${tistoryPosts}\n${velogPosts}`;
+        const newReadmeContent = readmeContent.includes("### Tistory Latest Blog Posts")
+            ? readmeContent.replace(/### Tistory Latest Blog Posts[\s\S]*?(?=### Velog Latest Blog Posts|$)/, tistoryPosts)
+            : readmeContent + "\n" + combinedPosts;
 
-    // README.md 업데이트 여부 확인
-    const newReadmeContent = readmeContent.includes("### Tistory Latest Blog Posts")
-        ? readmeContent.replace(
-              /### Tistory Latest Blog Posts[\s\S]*?(?=### Velog Latest Blog Posts|$)/,
-              combinedPosts
-          )
-        : readmeContent + "\n" + combinedPosts;
-
-    if (newReadmeContent !== readmeContent) {
-        writeFileSync(readmePath, newReadmeContent, "utf8");
-        console.log("README.md 업데이트 완료");
-        process.exit(0); // 정상적으로 종료 (업데이트 있음)
-    } else {
-        console.log("새로운 블로그 포스트가 없습니다.");
-        process.exit(1); // 업데이트 없음
+        // README 내용이 변경된 경우 파일 쓰기
+        if (newReadmeContent !== readmeContent) {
+            writeFileSync(readmePath, newReadmeContent, "utf8");
+            console.log("README.md 업데이트 완료");
+            process.exit(0); // 정상 종료
+        } else {
+            console.log("새로운 블로그 포스트가 없습니다.");
+            process.exit(0); // 정상 종료
+        }
+    } catch (error) {
+        console.error("RSS 피드 처리 중 오류 발생:", error.message);
+        process.exit(1); // 오류 발생 시 실패 처리
     }
 })();
