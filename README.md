@@ -176,7 +176,6 @@
 - [[머신러닝 수학의 바이블] 선형대수학 Part 6 - 선형 사상과 이미지/커널](https://realalpaca01.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%88%98%ED%95%99%EC%9D%98-%EB%B0%94%EC%9D%B4%EB%B8%94-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-Part-6-%EC%84%A0%ED%98%95-%EC%82%AC%EC%83%81%EA%B3%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%BB%A4%EB%84%90)
 - [[머신러닝 수학의 바이블] 선형대수학 Part 5 - 선형 사상과 기저변환](https://realalpaca01.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%88%98%ED%95%99%EC%9D%98-%EB%B0%94%EC%9D%B4%EB%B8%94-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-Part-5-%EC%84%A0%ED%98%95-%EC%82%AC%EC%83%81%EA%B3%BC-%EA%B8%B0%EC%A0%80%EB%B3%80%ED%99%98)
 - [[용어] 아벨군(Abelian Group)](https://realalpaca01.tistory.com/entry/%EC%9A%A9%EC%96%B4-%EC%95%84%EB%B2%A8%EA%B5%B0Abelian-Group)
-
 ### Velog Latest Blog Posts
 
 - [[트러블슈팅] GitHub Actions와 RSS로 블로그 자동화 문제 해결](https://velog.io/@yujin_jeong/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
