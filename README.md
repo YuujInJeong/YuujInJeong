@@ -171,11 +171,11 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
 ### Tistory Latest Blog Posts
 
+- [스트리밍 서비스 ReSys 간략한 분석 _ 유튜브 뮤직](https://realalpaca01.tistory.com/entry/%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%84%9C%EB%B9%84%EC%8A%A4-ReSys-%EA%B0%84%EB%9E%B5%ED%95%9C-%EB%B6%84%EC%84%9D-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EB%AE%A4%EC%A7%81)
 - [스트리밍 서비스 메뚜기의 추천시스템 비교(주관적)](https://realalpaca01.tistory.com/entry/%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A9%94%EB%9A%9C%EA%B8%B0%EC%9D%98-%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B9%84%EA%B5%90%EC%A3%BC%EA%B4%80%EC%A0%81)
 - [고윳값 분해와 푸리에 변환의 관계](https://realalpaca01.tistory.com/entry/%EA%B3%A0%EC%9C%B3%EA%B0%92-%EB%B6%84%ED%95%B4%EC%99%80-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98%EC%9D%98-%EA%B4%80%EA%B3%84)
 - [Mathematical Definitions in Data Science](https://realalpaca01.tistory.com/entry/Mathematical-Definitions-in-Data-Science)
 - [[머신러닝 수학의 바이블] 선형대수학 Part 6 - 선형 사상과 이미지/커널](https://realalpaca01.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%88%98%ED%95%99%EC%9D%98-%EB%B0%94%EC%9D%B4%EB%B8%94-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-Part-6-%EC%84%A0%ED%98%95-%EC%82%AC%EC%83%81%EA%B3%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%BB%A4%EB%84%90)
-- [[머신러닝 수학의 바이블] 선형대수학 Part 5 - 선형 사상과 기저변환](https://realalpaca01.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%88%98%ED%95%99%EC%9D%98-%EB%B0%94%EC%9D%B4%EB%B8%94-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99-Part-5-%EC%84%A0%ED%98%95-%EC%82%AC%EC%83%81%EA%B3%BC-%EA%B8%B0%EC%A0%80%EB%B3%80%ED%99%98)
 ### Velog Latest Blog Posts
 
 - [[트러블슈팅] GitHub Actions와 RSS로 블로그 자동화 문제 해결](https://velog.io/@yujin_jeong/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
