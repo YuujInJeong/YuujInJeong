@@ -49,7 +49,7 @@
   - 고교 동아리 알고리즘 2반 CA 강사 (대면)
 - **DADINGCODING**
   - WEB FE, PM
-- **네이버 클라우드 주관 Naver AI RUSH 24 **
+- **네이버 클라우드 주관 Naver AI RUSH 24**
   - 기획 및 BE
 
 <br>
@@ -83,8 +83,12 @@
 <br>
 
 ## 🏅 Main Awards & Project
+### 2025
+- Perplexity Campus Strategist 
+  
 ### 2024
 - 2024년 KHreative StartUP Dream 2.0 '창업아이디어 오디션 | 혁신상 (경희대학교 SW중심사업단)
+- 2024학년도 KVS(KHU Valley Start-Up)육성사업 10기 | 유망팀 수상 (500만원 상당)
 - 2024 KHU Valley Program(KVP) 12기 [고급] | 장려상
 - Sesac 해커톤 | 본선 34위로 진출
 - 2024 고용노동 공공데이터 공모전 | 장려상
@@ -98,7 +102,7 @@
   
 ### 2023
 - 2023 창원 빅데이터 공모전 아이디어 부문 대상 | (1위)
-- 2022학년도 KVS(KHU Valley Start-Up)육성사업 7기 | 성장팀 수상 (300만원 상당)
+- 2023학년도 KVS(KHU Valley Start-Up)육성사업 8기 | 성장팀 수상 (300만원 상당)
 - 2023 KHU Valley Program(KVP) 11기 [중급] | 참여
 - 2023 KHU Valley Program(KVP) 10기 [초급] | 장려상 (50만원)
 - 서울특별시 유공자 표창장 | 봉사부문 
@@ -110,8 +114,6 @@
 ### 2021
 - 마이커리어스쿨 자기이해반 1기 수료
 
-
-
 <br>
 
 
@@ -121,14 +123,14 @@
   
   ### 💪 Strong
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00B2FF?style=flat-square&logo=ai&logoColor=white)
   
   ### 📚 Currently Learning
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Computer Science](https://img.shields.io/badge/Computer%20Science-FF6B6B?style=flat-square&logo=canonical&logoColor=white)
-  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00B2FF?style=flat-square&logo=ai&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   
   ### 🔨 Development Tools
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
