@@ -32,14 +32,31 @@ const parser = new Parser({
             velogPosts += `- [${title}](${link})\n`;
         }
 
-        // 새로운 README 내용 구성
+        // 기존 README에서 섹션을 교체
         const combinedPosts = `${tistoryPosts}\n${velogPosts}`;
-        const newReadmeContent = readmeContent.includes("### Tistory Latest Blog Posts")
-            ? readmeContent.replace(/### Tistory Latest Blog Posts[\s\S]*?(?=### Velog Latest Blog Posts|$)/, tistoryPosts)
-            : readmeContent + "\n" + combinedPosts;
+        let newReadmeContent = readmeContent;
 
-        // README 내용이 변경된 경우 파일 쓰기
+        if (readmeContent.includes("### Tistory Latest Blog Posts")) {
+            newReadmeContent = newReadmeContent.replace(
+                /### Tistory Latest Blog Posts[\s\S]*?(?=### Velog Latest Blog Posts|$)/,
+                tistoryPosts.trim()
+            );
+        } else {
+            newReadmeContent += `\n${tistoryPosts}`;
+        }
+
+        if (readmeContent.includes("### Velog Latest Blog Posts")) {
+            newReadmeContent = newReadmeContent.replace(
+                /### Velog Latest Blog Posts[\s\S]*?(?=$)/,
+                velogPosts.trim()
+            );
+        } else {
+            newReadmeContent += `\n${velogPosts}`;
+        }
+
+        // 파일 쓰기 조건 확인
         if (newReadmeContent !== readmeContent) {
+            console.log("README.md 변경 사항:\n", newReadmeContent);
             writeFileSync(readmePath, newReadmeContent, "utf8");
             console.log("README.md 업데이트 완료");
             process.exit(0); // 정상 종료
@@ -49,6 +66,7 @@ const parser = new Parser({
         }
     } catch (error) {
         console.error("RSS 피드 처리 중 오류 발생:", error.message);
+        console.error(error.stack); // 에러 스택도 출력
         process.exit(1); // 오류 발생 시 실패 처리
     }
 })();

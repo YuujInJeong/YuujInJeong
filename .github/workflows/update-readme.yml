@@ -25,8 +25,10 @@ jobs:
       - name: Run update script
         id: update-readme
         run: node readmeUpdate.js
+        continue-on-error: false # 스크립트 오류 시 실패로 처리
 
       - name: Commit README
+        if: steps.update-readme.outcome == 'success' # update-readme 스텝 성공 시 실행
         run: |
           git config --local user.name "YuujInJeong" # GitHub 사용자 이름
           git config --local user.email "yujin010917@khu.ac.kr" # GitHub 이메일
@@ -39,4 +41,3 @@ jobs:
           fi
         env:
           GH_GITHUB_TOKEN: ${{ secrets.GH_GITHUB_TOKEN }}
-  
