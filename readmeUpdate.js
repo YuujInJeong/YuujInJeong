@@ -33,7 +33,7 @@ const parser = new Parser({
         }
 
         // 기존 README에서 섹션을 교체
-        const combinedPosts = `${tistoryPosts}\n${velogPosts}`;
+        const combinedPosts = `${tistoryPosts}\n\n${velogPosts}`; // Tistory와 Velog 섹션 사이에 줄바꿈 추가
         let newReadmeContent = readmeContent;
 
         if (readmeContent.includes("### Tistory Latest Blog Posts")) {
