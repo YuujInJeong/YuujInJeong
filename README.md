@@ -179,8 +179,8 @@
 - [스트리밍 서비스 메뚜기의 추천시스템 비교(주관적)](https://realalpaca01.tistory.com/entry/%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A9%94%EB%9A%9C%EA%B8%B0%EC%9D%98-%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B9%84%EA%B5%90%EC%A3%BC%EA%B4%80%EC%A0%81)
 - [고윳값 분해와 푸리에 변환의 관계](https://realalpaca01.tistory.com/entry/%EA%B3%A0%EC%9C%B3%EA%B0%92-%EB%B6%84%ED%95%B4%EC%99%80-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98%EC%9D%98-%EA%B4%80%EA%B3%84)### Velog Latest Blog Posts
 
+- [GitHub Organization 만들기 A to Z 🚀](https://velog.io/@yujin_jeong/GitHub-Organization-%EB%A7%8C%EB%93%A4%EA%B8%B0-A-to-Z)
 - [CICD와 RICD](https://velog.io/@yujin_jeong/CICD%EC%99%80-RICD)
 - [[트러블슈팅] GitHub Actions와 RSS로 블로그 자동화 문제 해결](https://velog.io/@yujin_jeong/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 - [GitHub Actions와 RSS로 자동화된 블로그 관리 (Velog와 Tistory)](https://velog.io/@yujin_jeong/GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-Velog%EC%99%80-Tistory)
 - [RSS와 깃헙 액션(Github action)](https://velog.io/@yujin_jeong/RSS%EC%99%80-%EA%B9%83%ED%97%99-%EC%95%A1%EC%85%98Github-action)
-- [OLTP, CDC, ERP, 이벤트 콜렉터](https://velog.io/@yujin_jeong/OLTP-CDC-ERP-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%BD%9C%EB%A0%89%ED%84%B0)
