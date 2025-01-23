@@ -45,7 +45,7 @@ const parser = new Parser({
             newReadmeContent += `\n${tistoryPosts}`;
         }
 
-        if (readmeContent.includes("### Velog Latest Blog Posts")) {
+        if (readmeContent.includes("\n### Velog Latest Blog Posts")) {
             newReadmeContent = newReadmeContent.replace(
                 /### Velog Latest Blog Posts[\s\S]*?(?=$)/,
                 velogPosts.trim()
