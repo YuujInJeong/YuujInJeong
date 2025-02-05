@@ -171,18 +171,11 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
 ### Tistory Latest Blog Posts
 
+- [[KHUDA ML 기초 딥다이브] Week 03](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-03)
+- [[KHUDA ML 기초 딥다이브] Week 02](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-02)
+- [[KHUDA ML 기초 딥다이브] Week 01](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-01)
 - [[KHUDA GIT 스터디 6일차] 스페셜 개발자의 파트너, 깃허브 데브와 코파일럿](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%9D%BC%EC%B0%A8-%EC%8A%A4%ED%8E%98%EC%85%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8D%B0%EB%B8%8C%EC%99%80-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF)
-- [[KHUDA GIT 스터디 5일차] 깃허브 실전편](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-5%EC%9D%BC%EC%B0%A8-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%8B%A4%EC%A0%84%ED%8E%B8)
-- [[KHUDA GIT 스터디 4일차] 깃 협업](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-4%EC%9D%BC%EC%B0%A8-%EA%B9%83-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%99%80-%EA%B9%83-%ED%97%88%EB%B8%8C)
-- [[KHUDA GIT 스터디 3일차] 깃 브랜치 와 깃 허브](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9D%BC%EC%B0%A8-%EA%B9%83-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%99%80-%EA%B9%83-%ED%97%88%EB%B8%8C)
-- [[KHUDA GIT 스터디 2일차] 깃 설치 및 버전관리](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%9D%BC%EC%B0%A8-%EA%B9%83-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC)### Velog Latest Blog Posts
-
-- [GitHub Organization 만들기 A to Z 🚀](https://velog.io/@yujin_jeong/GitHub-Organization-%EB%A7%8C%EB%93%A4%EA%B8%B0-A-to-Z)
-- [CICD와 RICD](https://velog.io/@yujin_jeong/CICD%EC%99%80-RICD)
-- [[트러블슈팅] GitHub Actions와 RSS로 블로그 자동화 문제 해결](https://velog.io/@yujin_jeong/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
-- [GitHub Actions와 RSS로 자동화된 블로그 관리 (Velog와 Tistory)](https://velog.io/@yujin_jeong/GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-Velog%EC%99%80-Tistory)
-- [RSS와 깃헙 액션(Github action)](https://velog.io/@yujin_jeong/RSS%EC%99%80-%EA%B9%83%ED%97%99-%EC%95%A1%EC%85%98Github-action)
-### Velog Latest Blog Posts
+- [[KHUDA GIT 스터디 5일차] 깃허브 실전편](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-5%EC%9D%BC%EC%B0%A8-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%8B%A4%EC%A0%84%ED%8E%B8)### Velog Latest Blog Posts
 
 - [GitHub Organization 만들기 A to Z 🚀](https://velog.io/@yujin_jeong/GitHub-Organization-%EB%A7%8C%EB%93%A4%EA%B8%B0-A-to-Z)
 - [CICD와 RICD](https://velog.io/@yujin_jeong/CICD%EC%99%80-RICD)
