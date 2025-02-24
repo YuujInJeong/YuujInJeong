@@ -182,3 +182,10 @@
 - [[트러블슈팅] GitHub Actions와 RSS로 블로그 자동화 문제 해결](https://velog.io/@yujin_jeong/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 - [GitHub Actions와 RSS로 자동화된 블로그 관리 (Velog와 Tistory)](https://velog.io/@yujin_jeong/GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-Velog%EC%99%80-Tistory)
 - [RSS와 깃헙 액션(Github action)](https://velog.io/@yujin_jeong/RSS%EC%99%80-%EA%B9%83%ED%97%99-%EC%95%A1%EC%85%98Github-action)
+### Velog Latest Blog Posts
+
+- [모던 React 프로젝트 구조 ](https://velog.io/@yujin_jeong/%EB%AA%A8%EB%8D%98-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
+- [GitHub Organization 만들기 A to Z 🚀](https://velog.io/@yujin_jeong/GitHub-Organization-%EB%A7%8C%EB%93%A4%EA%B8%B0-A-to-Z)
+- [CICD와 RICD](https://velog.io/@yujin_jeong/CICD%EC%99%80-RICD)
+- [[트러블슈팅] GitHub Actions와 RSS로 블로그 자동화 문제 해결](https://velog.io/@yujin_jeong/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+- [GitHub Actions와 RSS로 자동화된 블로그 관리 (Velog와 Tistory)](https://velog.io/@yujin_jeong/GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-Velog%EC%99%80-Tistory)
