@@ -174,9 +174,7 @@
 - [[KHUDA ML 기초 딥다이브] Week 03](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-03)
 - [[KHUDA ML 기초 딥다이브] Week 02](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-02)
 - [[KHUDA ML 기초 딥다이브] Week 01](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-01)
-- [[KHUDA GIT 스터디 6일차] 스페셜 개발자의 파트너, 깃허브 데브와 코파일럿](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%9D%BC%EC%B0%A8-%EC%8A%A4%ED%8E%98%EC%85%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8D%B0%EB%B8%8C%EC%99%80-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF)
-<br>
-### Velog Latest Blog Posts
+- [[KHUDA GIT 스터디 6일차] 스페셜 개발자의 파트너, 깃허브 데브와 코파일럿](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%9D%BC%EC%B0%A8-%EC%8A%A4%ED%8E%98%EC%85%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8D%B0%EB%B8%8C%EC%99%80-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF)### Velog Latest Blog Posts
 
 - [모던 React 프로젝트 구조 ](https://velog.io/@yujin_jeong/%EB%AA%A8%EB%8D%98-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
 - [GitHub Organization 만들기 A to Z 🚀](https://velog.io/@yujin_jeong/GitHub-Organization-%EB%A7%8C%EB%93%A4%EA%B8%B0-A-to-Z)
