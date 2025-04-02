@@ -156,9 +156,8 @@
   
   ## 🤝 Let's Collaborate!
   > 새로운 도전과 협업을 환영합니다
-    ## 🤝 Let's Collaborate!
-> 새로운 도전과 협업을 환영합니다
-> 
+
+
 <a href="https://github.com/YuujInJeong/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/dbwlswjd_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:yujin010917@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/yujin010917@khu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -175,13 +174,8 @@
 - [[KHUDA ML 기초 딥다이브] Week 03](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-03)
 - [[KHUDA ML 기초 딥다이브] Week 02](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-02)
 - [[KHUDA ML 기초 딥다이브] Week 01](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-01)
-- [[KHUDA GIT 스터디 6일차] 스페셜 개발자의 파트너, 깃허브 데브와 코파일럿](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%9D%BC%EC%B0%A8-%EC%8A%A4%ED%8E%98%EC%85%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8D%B0%EB%B8%8C%EC%99%80-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF)### Velog Latest Blog Posts
-
-- [모던 React 프로젝트 구조 ](https://velog.io/@yujin_jeong/%EB%AA%A8%EB%8D%98-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
-- [GitHub Organization 만들기 A to Z 🚀](https://velog.io/@yujin_jeong/GitHub-Organization-%EB%A7%8C%EB%93%A4%EA%B8%B0-A-to-Z)
-- [CICD와 RICD](https://velog.io/@yujin_jeong/CICD%EC%99%80-RICD)
-- [[트러블슈팅] GitHub Actions와 RSS로 블로그 자동화 문제 해결](https://velog.io/@yujin_jeong/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
-- [GitHub Actions와 RSS로 자동화된 블로그 관리 (Velog와 Tistory)](https://velog.io/@yujin_jeong/GitHub-Actions%EC%99%80-RSS%EB%A1%9C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-Velog%EC%99%80-Tistory)
+- [[KHUDA GIT 스터디 6일차] 스페셜 개발자의 파트너, 깃허브 데브와 코파일럿](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%9D%BC%EC%B0%A8-%EC%8A%A4%ED%8E%98%EC%85%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8D%B0%EB%B8%8C%EC%99%80-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF)
+<br>
 ### Velog Latest Blog Posts
 
 - [모던 React 프로젝트 구조 ](https://velog.io/@yujin_jeong/%EB%AA%A8%EB%8D%98-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
