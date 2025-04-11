@@ -176,13 +176,6 @@
 - [[KHUDA ML 기초 딥다이브] Week 01](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-01)
 - [[KHUDA GIT 스터디 6일차] 스페셜 개발자의 파트너, 깃허브 데브와 코파일럿](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%9D%BC%EC%B0%A8-%EC%8A%A4%ED%8E%98%EC%85%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8D%B0%EB%B8%8C%EC%99%80-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF)### Velog Latest Blog Posts
 
-- [3.1 쿠버네티스 이해하기](https://velog.io/@yujin_jeong/Temp-Title)
-- [테스트 환경 설정-실습](https://velog.io/@yujin_jeong/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-%EC%8B%A4%EC%8A%B5)
-- [테스트 환경 세팅](https://velog.io/@yujin_jeong/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85)
-- [새로운 인프라 환경이 온다](https://velog.io/@yujin_jeong/1stnewinfra)
-- [모던 React 프로젝트 구조 ](https://velog.io/@yujin_jeong/%EB%AA%A8%EB%8D%98-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
-### Velog Latest Blog Posts
-
 - [3.2 쿠버네티스 기본 사용법 배우기](https://velog.io/@yujin_jeong/3.2-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
 - [3.1 쿠버네티스 이해하기](https://velog.io/@yujin_jeong/Temp-Title)
 - [테스트 환경 설정-실습](https://velog.io/@yujin_jeong/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-%EC%8B%A4%EC%8A%B5)
