@@ -1,9 +1,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import Parser from "rss-parser";
-
 const readmePath = "README.md";
 let readmeContent = readFileSync(readmePath, "utf8");
-
 // 요청 헤더 설정
 const parser = new Parser({
     headers: {
@@ -11,49 +9,49 @@ const parser = new Parser({
         "Accept": "application/rss+xml, application/xml, text/xml",
     },
 });
-
 (async () => {
     try {
         // RSS 피드 가져오기
         const tistoryFeed = await parser.parseURL("https://realalpaca01.tistory.com/rss");
         const velogFeed = await parser.parseURL("https://v2.velog.io/rss/@yujin_jeong");
-
         // Tistory 블로그 포스트 생성
         let tistoryPosts = "### Tistory Latest Blog Posts\n\n";
         for (let i = 0; i < 5 && i < tistoryFeed.items.length; i++) {
             const { title, link } = tistoryFeed.items[i];
             tistoryPosts += `- [${title}](${link})\n`;
         }
-
         // Velog 블로그 포스트 생성
-        let velogPosts = "### Velog Latest Blog Posts\n\n";
+        let velogPosts = "\n### Velog Latest Blog Posts\n\n";  // 앞에 개행 추가
         for (let i = 0; i < 5 && i < velogFeed.items.length; i++) {
             const { title, link } = velogFeed.items[i];
             velogPosts += `- [${title}](${link})\n`;
         }
-
-        // 기존 README에서 섹션을 교체
-        const combinedPosts = `${tistoryPosts}\n\n${velogPosts}`; // Tistory와 Velog 섹션 사이에 줄바꿈 추가
+        
+        // 기존 README에서 섹션을 교체하는 로직 수정
         let newReadmeContent = readmeContent;
-
+        
+        // 패턴 매칭 개선
+        const tistoryPattern = /### Tistory Latest Blog Posts\n\n[\s\S]*?(?=\n### |$)/;
+        const velogPattern = /### Velog Latest Blog Posts\n\n[\s\S]*?(?=\n### |$)/;
+        
         if (readmeContent.includes("### Tistory Latest Blog Posts")) {
             newReadmeContent = newReadmeContent.replace(
-                /### Tistory Latest Blog Posts[\s\S]*?(?=### Velog Latest Blog Posts|$)/,
-                tistoryPosts.trim()
+                tistoryPattern,
+                tistoryPosts
             );
         } else {
-            newReadmeContent += `\n${tistoryPosts}`;
+            newReadmeContent += `\n\n${tistoryPosts}`;
         }
-
-        if (readmeContent.includes("\n### Velog Latest Blog Posts")) {
+        
+        if (readmeContent.includes("### Velog Latest Blog Posts")) {
             newReadmeContent = newReadmeContent.replace(
-                /### Velog Latest Blog Posts[\s\S]*?(?=$)/,
+                velogPattern,
                 velogPosts.trim()
             );
         } else {
-            newReadmeContent += `\n${velogPosts}`;
+            newReadmeContent += `\n\n${velogPosts}`; // 두 개의 개행 추가
         }
-
+        
         // 파일 쓰기 조건 확인
         if (newReadmeContent !== readmeContent) {
             console.log("README.md 변경 사항:\n", newReadmeContent);
