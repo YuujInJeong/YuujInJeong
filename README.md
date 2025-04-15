@@ -170,11 +170,18 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
 ### Tistory Latest Blog Posts
 
+- [섬의 개수 - DFS vs BFS로 탐색 알고리즘 비교하기](https://realalpaca01.tistory.com/entry/baek4963)
 - [[핵심 확률/통계] Analysis of Variance (ANOVA 분산분석)](https://realalpaca01.tistory.com/entry/%ED%95%B5%EC%8B%AC-%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84-Analysis-of-Variance-ANOVA-%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D)
 - [[KHUDA ML 기초 딥다이브] Week 03](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-03)
 - [[KHUDA ML 기초 딥다이브] Week 02](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-02)
-- [[KHUDA ML 기초 딥다이브] Week 01](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-01)
-- [[KHUDA GIT 스터디 6일차] 스페셜 개발자의 파트너, 깃허브 데브와 코파일럿](https://realalpaca01.tistory.com/entry/KHUDA-GIT-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%9D%BC%EC%B0%A8-%EC%8A%A4%ED%8E%98%EC%85%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8D%B0%EB%B8%8C%EC%99%80-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF)### Velog Latest Blog Posts
+- [[KHUDA ML 기초 딥다이브] Week 01](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-01)### Velog Latest Blog Posts
+
+- [3.2 쿠버네티스 기본 사용법 배우기](https://velog.io/@yujin_jeong/3.2-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+- [3.1 쿠버네티스 이해하기](https://velog.io/@yujin_jeong/Temp-Title)
+- [테스트 환경 설정-실습](https://velog.io/@yujin_jeong/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-%EC%8B%A4%EC%8A%B5)
+- [테스트 환경 세팅](https://velog.io/@yujin_jeong/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85)
+- [새로운 인프라 환경이 온다](https://velog.io/@yujin_jeong/1stnewinfra)
+### Velog Latest Blog Posts
 
 - [3.2 쿠버네티스 기본 사용법 배우기](https://velog.io/@yujin_jeong/3.2-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
 - [3.1 쿠버네티스 이해하기](https://velog.io/@yujin_jeong/Temp-Title)
