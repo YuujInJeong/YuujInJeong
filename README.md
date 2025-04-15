@@ -170,11 +170,11 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
 ### Tistory Latest Blog Posts
 
+- [  막대 자르기 최소 비용 - 접근법 비교 분석](https://realalpaca01.tistory.com/entry/baek16208)
 - [섬의 개수 - DFS vs BFS로 탐색 알고리즘 비교하기](https://realalpaca01.tistory.com/entry/baek4963)
 - [[핵심 확률/통계] Analysis of Variance (ANOVA 분산분석)](https://realalpaca01.tistory.com/entry/%ED%95%B5%EC%8B%AC-%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84-Analysis-of-Variance-ANOVA-%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D)
 - [[KHUDA ML 기초 딥다이브] Week 03](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-03)
 - [[KHUDA ML 기초 딥다이브] Week 02](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-02)
-- [[KHUDA ML 기초 딥다이브] Week 01](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-01)
 
 ### Velog Latest Blog Posts
 
