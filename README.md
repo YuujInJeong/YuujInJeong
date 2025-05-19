@@ -182,8 +182,8 @@
 
 ### Velog Latest Blog Posts
 
+- [Web Crawling, Web Scraping, 그리고 Headless Browser - 직접 브라우저를 돌리기](https://velog.io/@yujin_jeong/Web-Crawling-Web-Scraping-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Headless-Browser-%EC%A7%81%EC%A0%91-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A5%BC-%EB%8F%8C%EB%A6%AC%EA%B8%B0)
 - [DOM과 SPA, 그리고 CSR vs SSR - 웹 크롤링 전에 꼭 알아야 할 구조 이야기](https://velog.io/@yujin_jeong/DOM%EA%B3%BC-SPA-%EA%B7%B8%EB%A6%AC%EA%B3%A0-CSR-vs-SSR-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%A0%84%EC%97%90-%EA%BC%AD-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 - [3.2 쿠버네티스 기본 사용법 배우기](https://velog.io/@yujin_jeong/3.2-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
 - [3.1 쿠버네티스 이해하기](https://velog.io/@yujin_jeong/Temp-Title)
 - [테스트 환경 설정-실습](https://velog.io/@yujin_jeong/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-%EC%8B%A4%EC%8A%B5)
-- [테스트 환경 세팅](https://velog.io/@yujin_jeong/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85)
