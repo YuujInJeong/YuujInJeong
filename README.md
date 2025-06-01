@@ -182,8 +182,8 @@
 
 ### Velog Latest Blog Posts
 
+- [Birthday Problem](https://velog.io/@yujin_jeong/Birthday-Problem)
 - [🎬 링크로 공유하는 내 영화 위시리스트, movieshelf 프로젝트 구조 소개](https://velog.io/@yujin_jeong/%EB%A7%81%ED%81%AC%EB%A1%9C-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EB%82%B4-%EC%98%81%ED%99%94-%EC%9C%84%EC%8B%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8-movieshelf-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EC%86%8C%EA%B0%9C)
 - [쿠팡 상품페이지는 SPA일까? ](https://velog.io/@yujin_jeong/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88%ED%8E%98%EC%9D%B4%EC%A7%80%EB%8A%94-SPA%EC%9D%BC%EA%B9%8C)
 - [리뷰 크롤링 CAPTCHA 우회부터 CSV 저장까지, 실전 구조 완전 정리 [실패]](https://velog.io/@yujin_jeong/%EB%A6%AC%EB%B7%B0-%ED%81%AC%EB%A1%A4%EB%A7%81-CAPTCHA-%EC%9A%B0%ED%9A%8C%EB%B6%80%ED%84%B0-CSV-%EC%A0%80%EC%9E%A5%EA%B9%8C%EC%A7%80-%EC%8B%A4%EC%A0%84-%EA%B5%AC%EC%A1%B0-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC-%EC%8B%A4%ED%8C%A8)
 - [크롤러가 차단되는 이유: Puppeteer와 User-Agent, 그리고 봇 감지 우회 전략 ①](https://velog.io/@yujin_jeong/%ED%81%AC%EB%A1%A4%EB%9F%AC%EA%B0%80-%EC%B0%A8%EB%8B%A8%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-Puppeteer%EC%99%80-User-Agent-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%B4%87-%EA%B0%90%EC%A7%80-%EC%9A%B0%ED%9A%8C-%EC%A0%84%EB%9E%B5)
-- [Puppeteer에서 무한스크롤 구현하기 – 끝까지 내려가는 법](https://velog.io/@yujin_jeong/Puppeteer%EC%97%90%EC%84%9C-%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EB%81%9D%EA%B9%8C%EC%A7%80-%EB%82%B4%EB%A0%A4%EA%B0%80%EB%8A%94-%EB%B2%95)
