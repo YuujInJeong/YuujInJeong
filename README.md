@@ -178,3 +178,22 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+
+
+### Tistory Latest Blog Posts
+
+- [GPT야 내 사고패턴을 알려줘](https://realalpaca01.tistory.com/entry/GPT%EC%95%BC-%EB%82%B4-%EC%82%AC%EA%B3%A0%ED%8C%A8%ED%84%B4%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A4%98)
+- [  막대 자르기 최소 비용 - 접근법 비교 분석](https://realalpaca01.tistory.com/entry/baek16208)
+- [섬의 개수 - DFS vs BFS로 탐색 알고리즘 비교하기](https://realalpaca01.tistory.com/entry/baek4963)
+- [[핵심 확률/통계] Analysis of Variance (ANOVA 분산분석)](https://realalpaca01.tistory.com/entry/%ED%95%B5%EC%8B%AC-%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84-Analysis-of-Variance-ANOVA-%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D)
+- [[KHUDA ML 기초 딥다이브] Week 03](https://realalpaca01.tistory.com/entry/KHUDA-ML-%EA%B8%B0%EC%B4%88-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-Week-03)
+
+
+
+### Velog Latest Blog Posts
+
+- [UUID vs NanoID와 URL 파라미터 방식 완전 정리](https://velog.io/@yujin_jeong/UUID-vs-NanoID%EC%99%80-URL-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EB%B0%A9%EC%8B%9D-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
+- [Birthday Problem](https://velog.io/@yujin_jeong/Birthday-Problem)
+- [🎬 링크로 공유하는 내 영화 위시리스트, movieshelf 프로젝트 구조 소개](https://velog.io/@yujin_jeong/%EB%A7%81%ED%81%AC%EB%A1%9C-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EB%82%B4-%EC%98%81%ED%99%94-%EC%9C%84%EC%8B%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8-movieshelf-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EC%86%8C%EA%B0%9C)
+- [쿠팡 상품페이지는 SPA일까? ](https://velog.io/@yujin_jeong/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88%ED%8E%98%EC%9D%B4%EC%A7%80%EB%8A%94-SPA%EC%9D%BC%EA%B9%8C)
+- [리뷰 크롤링 CAPTCHA 우회부터 CSV 저장까지, 실전 구조 완전 정리 [실패]](https://velog.io/@yujin_jeong/%EB%A6%AC%EB%B7%B0-%ED%81%AC%EB%A1%A4%EB%A7%81-CAPTCHA-%EC%9A%B0%ED%9A%8C%EB%B6%80%ED%84%B0-CSV-%EC%A0%80%EC%9E%A5%EA%B9%8C%EC%A7%80-%EC%8B%A4%EC%A0%84-%EA%B5%AC%EC%A1%B0-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC-%EC%8B%A4%ED%8C%A8)
