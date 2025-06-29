@@ -172,8 +172,8 @@
 
 ### Velog Latest Blog Posts
 
+- [MOVIE SHELF | AI로 영화플리 서비스 만들어본 후기](https://velog.io/@yujin_jeong/MOVIE-SHELF-AI%EB%A1%9C-%EC%98%81%ED%99%94%ED%94%8C%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B8-%ED%9B%84%EA%B8%B0)
 - [Lovart AI와 LLM의 사고 메커니즘 ](https://velog.io/@yujin_jeong/Lovart-AI%EC%99%80-LLM%EC%9D%98-%EC%82%AC%EA%B3%A0-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
 - [localStorage vs sessionStorage vs Cookie](https://velog.io/@yujin_jeong/localStorage-vs-sessionStorage-vs-Cookie)
 - [UUID vs NanoID와 URL 파라미터 방식 완전 정리](https://velog.io/@yujin_jeong/UUID-vs-NanoID%EC%99%80-URL-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EB%B0%A9%EC%8B%9D-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
 - [Birthday Problem](https://velog.io/@yujin_jeong/Birthday-Problem)
-- [🎬 링크로 공유하는 내 영화 위시리스트, movieshelf 프로젝트 구조 소개](https://velog.io/@yujin_jeong/%EB%A7%81%ED%81%AC%EB%A1%9C-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EB%82%B4-%EC%98%81%ED%99%94-%EC%9C%84%EC%8B%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8-movieshelf-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EC%86%8C%EA%B0%9C)
