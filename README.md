@@ -172,8 +172,8 @@
 
 ### Velog Latest Blog Posts
 
+- [Python GUI를 실행파일로 만들어본 후기](https://velog.io/@yujin_jeong/Python-GUI%EB%A5%BC-%EC%8B%A4%ED%96%89%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B8-%ED%9B%84%EA%B8%B0)
 - [파이썬 라이브러리(Cython,NetworkX,Louvain,Python-TSP| 성능 최적화와 그래프 알고리즘](https://velog.io/@yujin_jeong/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACCythonNetworkXLouvainPython-TSP-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94%EC%99%80-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [🔍 BFS vs DFS](https://velog.io/@yujin_jeong/BFS-vs-DFS)
 - [MOVIE SHELF | AI로 영화플리 서비스 만들어본 후기](https://velog.io/@yujin_jeong/MOVIE-SHELF-AI%EB%A1%9C-%EC%98%81%ED%99%94%ED%94%8C%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B8-%ED%9B%84%EA%B8%B0)
 - [Lovart AI와 LLM의 사고 메커니즘 ](https://velog.io/@yujin_jeong/Lovart-AI%EC%99%80-LLM%EC%9D%98-%EC%82%AC%EA%B3%A0-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
-- [localStorage vs sessionStorage vs Cookie](https://velog.io/@yujin_jeong/localStorage-vs-sessionStorage-vs-Cookie)
