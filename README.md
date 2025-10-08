@@ -145,11 +145,6 @@
 - [🔍 BFS vs DFS](https://velog.io/@yujin_jeong/BFS-vs-DFS)
 - [MOVIE SHELF | AI로 영화플리 서비스 만들어본 후기](https://velog.io/@yujin_jeong/MOVIE-SHELF-AI%EB%A1%9C-%EC%98%81%ED%99%94%ED%94%8C%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B8-%ED%9B%84%EA%B8%B0)
 - [Lovart AI와 LLM의 사고 메커니즘 ](https://velog.io/@yujin_jeong/Lovart-AI%EC%99%80-LLM%EC%9D%98-%EC%82%AC%EA%B3%A0-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
-
----
-
-## 🌍 English Version
-
 ### About Me
 I'm a **Pelican Mindset Developer** 🦈 who believes in "Just Do It First!" - diving into challenges with enthusiasm and learning through action.
 
