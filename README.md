@@ -58,20 +58,21 @@
 | 연도 | 대회/프로젝트명 | 주제/분야 | 수상 내역 | 기관 |
 |------|----------------|-----------|-----------|------|
 | 2025 | 동원 x 카이스트 AI Competition | Unlocking Future Sales & Demographics | 대상 (1위) | 동원, 카이스트 |
-| 2025 | 당근 Builder's Camp | 스타트업 빌더 캠프 | 특별상(2위) | 당근마켓 |
-| 2024 | KHreative StartUP Dream 2.0 | 창업아이디어 오디션 | 혁신상 | 경희대학교 SW중심사업단 |
+| 2025 | 당근 Builder's Camp | 당근 빌더스 캠프 | 특별상(2위) | 당근마켓 |
+| 2024 | 현대모비스 X KHUDA ML 프로젝트 컨퍼런스 | 개발•데이터 직군 면접 질문 추천시스템 | 1위 | 현대모비스, KHUDA |
+| 2024 | CAAS 학술제 | 서울시 지하철 네트워크를 활용한 지속 가능한 물류 시스템 설계 | 대상 (300만원) | CAAS |
+| 2024 | KHreative StartUP Dream 2.0 | 폴리온 - 정치인과 시민을 연결하는 정치 소통 플랫폼 | 혁신상 | 경희대학교 SW중심사업단 |
 | 2024 | KVS 육성사업 10기 | 스타트업 육성 | 유망팀 수상 (500만원) | 경희대학교 |
-| 2024 | KHU Valley Program 12기 | 고급 과정 | 장려상 | 경희대학교 |
-| 2024 | Sesac 해커톤 | 음악 AI | 본선 34위 | Sesac |
-| 2024 | 고용노동 공공데이터 공모전 | 공공데이터 활용 | 장려상 | 고용노동부 |
-| 2024 | 서울시 빅데이터캠퍼스 공모전 | 빅데이터 분석 | 우수상 | 서울시 |
-| 2024 | 경남 신사업 발굴 아이디어 공모전 | 신사업 아이디어 | 우수상 | 경상남도 |
+| 2024 | KHU Valley Program 12기 | 고급 과정 - LOST BEAN 커피박 제품 | 장려상 | 경희대학교 |
+| 2024 | Sesac 해커톤 | 파이노티(청소년 금융 AI챗봇)| 본선 34위 | Sesac |
+| 2024 | 고용노동 공공데이터 공모전 | 자격증 정보 및 학습 관리 앱 | 장려상 | 고용노동부 |
+| 2024 | 서울시 빅데이터캠퍼스 공모전 | 선형공원 입지 분석 및 최적 지역 추천 시스템 개발 | 우수상 | 서울시 |
+| 2024 | 경남 신사업 발굴 아이디어 공모전 | 소상공인을 위한 농수산물류 유통 플랫폼 | 우수상 | 경상남도 |
 | 2024 | 충북 공공데이터 활용 창업경진대회 | 공공데이터 창업 | 본선 진출 | 충청북도 |
-| 2023 | 창원 빅데이터 공모전 | 아이디어 부문 | 대상 (1위) | 창원시 |
-| 2023 | KVS 육성사업 8기 | - | 성장팀 수상 (300만원) | 경희대학교 |
-| 2023 | KHU Valley Program 11기 | 중급 과정 | 참여 | 경희대학교 |
-| 2023 | KHU Valley Program 10기 | 초급 과정 | 장려상 (50만원) | 경희대학교 |
-| 2023 | 서울특별시 유공자 표창장 | 봉사부문 | 표창장 | 서울특별시 |
+| 2023 | 창원 빅데이터 공모전 | Graph기반 농수산물류 유통 플랫폼 (아이디어 부문) | 대상 (1위) | 창원시 |
+| 2023 | KVS 육성사업 8기 | 달력형 인센스 페이퍼 | 성장팀 수상 (300만원) | 경희대학교 |
+| 2023 | KHU Valley Program 10기 | 초급 과정 - 워킹홀리데이(외교부) 통합 플랫폼 | 장려상 (50만원) | 경희대학교 |
+| 2023 | 서울특별시 유공자 표창장 | 사회봉사 부문 | 표창장 | 서울특별시 |
 
 ## 🚀 Major Projects
 
@@ -80,7 +81,7 @@
 | 2025 | 마타조 (Matajo) | 클라우드 네이티브 서비스 | 카카오테크 부트캠프 프로젝트 | [디스콰이엇](https://disquiet.io/product/%EB%A7%88%ED%83%80%EC%A1%B0-matajo) |
 | 2024 | LAID | 라인드로잉 자동화 | KHUDA 6기 Deploy 세션 프로젝트 | [GitHub](https://github.com/YuujInJeong/LAID) |
 | 2024 | LINK | 링크 저장 자동화 | KHUDA 6기 Deploy 세션 프로젝트 | [GitHub](https://github.com/YuujInJeong/LINK) |
-| 2024 | Naver AI RUSH 24 | AI 서비스 | 네이버 클라우드 주관 해커톤 | [GitHub](https://github.com/YuujInJeong/naver-ai-rush-24) |
+| 2024 | Naver AI RUSH 24 | AI 서비스 | 네이버 클라우드 주관 앰버서더 활동 | [GitHub](https://github.com/YuujInJeong/naver-ai-rush-24) |
 
 ---
 
@@ -105,7 +106,6 @@
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
@@ -113,15 +113,20 @@
 
 ### 👀 Areas of Interest
 - 💻 AI/ML Engineering
-- 🔐 Reverse Engineering (CTF)
 - ☁️ Cloud Computing
 - 🖥️ System Architecture
+- ♿ Accessibility Technology
+- 📊 Graph Neural Networks
+- 🧠 Large Language Models
 
 ## 🌱 Currently Working On
-- 클라우드 네이티브 프로젝트 개선 및 최적화
-- AI 서비스 프로덕션 레벨 배포 경험 쌓기
-- 개인 OSS 기여 및 오픈소스 프로젝트 준비
-- 카카오테크 부트캠프 프로젝트 완성도 높이기
+
+### 🔬 Research & Development
+- **시각장애인을 위한 앱 접근성 툴** (제작중, 논문 작성중)
+- **개인별 수요함수 모델링을 통한 맞춤 여행 정책 추천 시스템** (최인수, 임주현, 정유진)
+- **LLM 기반 가짜뉴스 탐지**
+- **GraphNN 기반 MLLM 작업 순서 align 기술**
+- 🎵 **음악 감상**: 다양한 장르의 음악 즐기기
 
 ### 📊 GitHub Stats
 ![Yuuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuujInJeong&show_icons=true&theme=radical)
