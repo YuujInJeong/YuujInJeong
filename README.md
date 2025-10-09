@@ -3,8 +3,6 @@
 ### 🏃‍♀️ Just Do It First! 🏃‍♀️
 > "일단 시도하는 펠리컨적 마인드" Developer
 
-[![English](https://img.shields.io/badge/English-4285F4?style=flat-square&logo=google-translate&logoColor=white)](#english-version) | [![한국어](https://img.shields.io/badge/한국어-FF6B6B?style=flat-square&logo=korean&logoColor=white)](#korean-version)
-
 <a href="https://github.com/YuujInJeong/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yujin-yoa-jeong" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.instagram.com/dbwlswjd_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
