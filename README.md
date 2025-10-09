@@ -13,6 +13,7 @@
 ### 📄 Resume & CV
 <a href="https://docs.google.com/document/d/14RFbugVkyeQ7NRby4BKgX401G9HlsT4_Sguqxtoew2M/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/English%20CV-4285F4?style=flat-square&logo=google-docs&logoColor=white"/></a>
 <a href="https://docs.google.com/document/d/1LWqMMBLwVWlqdLLWE6Wxs3F9DSYi05-JTSqFELH-gzo/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/한글%20레쥬메-FF6B6B?style=flat-square&logo=google-docs&logoColor=white"/></a>
+<a href="https://yuujinjeong.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Website-FF6B6B?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
