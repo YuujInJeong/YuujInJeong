@@ -17,19 +17,6 @@
 
 ---
 
-## 🐾 GitAnimals
-<a href="https://github.com/devxb/gitanimals">
- <img src="https://render.gitanimals.org/lines/YuujInJeong" width="1000" height="120"/>
-</a>
-
----
-
-## 🎓 Education
-- **경희대학교 산업경영공학과** (2021 ~)
-- **안산동산고등학교** (2017 ~ 2019)
-
----
-
 ## 🛠 Tech Stack
 
 ### 💪 Strong
@@ -68,27 +55,30 @@
 | 📊 **Data Analysis** | 고객 행동 분석, 인사이트 도출 | 데이터 기반 의사결정 |
 
 ---
-
 ## 🏅 Awards & Competitions
 
 | 연도 | 대회/프로젝트명 | 주제/분야 | 수상 내역 | 기관 |
 |------|----------------|-----------|-----------|------|
 | 2025 | 동원 x 카이스트 AI Competition | Unlocking Future Sales & Demographics | **대상 (1위)** | 동원, 카이스트 |
 | 2025 | 당근 Builder's Camp | 당근 빌더스 캠프 | **특별상(2위)** | 당근마켓 |
-| 2024 | 현대모비스 X KHUDA ML 프로젝트 컨퍼런스 | 개발•데이터 직군 면접 질문 추천시스템 | **1위** | 현대모비스, KHUDA |
-| 2024 | CAAS 학술제 | 서울시 지하철 네트워크를 활용한 지속 가능한 물류 시스템 설계 | **대상 (300만원)** | CAAS |
-| 2024 | KHreative StartUP Dream 2.0 | 폴리온 - 정치인과 시민을 연결하는 정치 소통 플랫폼 | **혁신상** | 경희대학교 SW중심사업단 |
+| 2025 | 서울특별시 디지털 공간정보 활용 공모전 | GIS 기반 도시데이터 활용 | **우수상** | 서울특별시 |
+| 2025 | KHUDA X Lovable 데이터톤 | 잔차(Residual) 기반 안심 경로 추천 서비스 **Re:Zip** | **대상 (1위)** | KHUDA, Lovable |
+| 2025 | 한국정보과학회 KSC | 시각장애인 앱 접근성 자동화 연구 | **포스터 세션 발표** | Korea Software Congress |
+| 2025 | SW인재페스티벌 | 경희대 대표 프로젝트 출전 | **대표 출전** | 경희대학교 |
+| 2024 | 현대모비스 X KHUDA ML 프로젝트 컨퍼런스 | 개발•데이터 직군 면접 질문 추천 시스템 | **1위** | 현대모비스, KHUDA |
+| 2024 | CAAS 학술제 | 지속 가능한 물류 시스템 설계 | **대상 (300만원)** | CAAS |
+| 2024 | KHreative StartUP Dream 2.0 | 폴리온 정치 소통 플랫폼 | **혁신상** | 경희대학교 |
 | 2024 | KVS 육성사업 10기 | 스타트업 육성 | **유망팀 수상 (500만원)** | 경희대학교 |
-| 2024 | KHU Valley Program 12기 | 고급 과정 - LOST BEAN 커피박 제품 | **장려상** | 경희대학교 |
+| 2024 | KHU Valley Program 12기 | LOST BEAN 커피박 제품 | **장려상** | 경희대학교 |
 | 2024 | Sesac 해커톤 | 파이노티(청소년 금융 AI챗봇) | **본선 34위** | Sesac |
 | 2024 | 고용노동 공공데이터 공모전 | 자격증 정보 및 학습 관리 앱 | **장려상** | 고용노동부 |
-| 2024 | 서울시 빅데이터캠퍼스 공모전 | 선형공원 입지 분석 및 최적 지역 추천 시스템 개발 | **우수상** | 서울시 |
-| 2024 | 경남 신사업 발굴 아이디어 공모전 | 소상공인을 위한 농수산물류 유통 플랫폼 | **우수상** | 경상남도 |
-| 2024 | 충북 공공데이터 활용 창업경진대회 | 공공데이터 창업 | **본선 진출** | 충청북도 |
-| 2023 | 창원 빅데이터 공모전 | Graph기반 농수산물류 유통 플랫폼 (아이디어 부문) | **대상 (1위)** | 창원시 |
+| 2024 | 서울시 빅데이터캠퍼스 공모전 | 선형공원 입지 분석 및 최적 지역 추천 | **우수상** | 서울시 |
+| 2024 | 경남 신사업 발굴 아이디어 공모전 | 농수산물 유통 플랫폼 | **우수상** | 경상남도 |
+| 2024 | 충북 공공데이터 활용 창업경진대회 | 공공데이터 기반 창업 | **본선 진출** | 충청북도 |
+| 2023 | 창원 빅데이터 공모전 | Graph 기반 농수산물류 플랫폼 | **대상 (1위)** | 창원시 |
 | 2023 | KVS 육성사업 8기 | 달력형 인센스 페이퍼 | **성장팀 수상 (300만원)** | 경희대학교 |
-| 2023 | KHU Valley Program 10기 | 초급 과정 - 워킹홀리데이(외교부) 통합 플랫폼 | **장려상 (50만원)** | 경희대학교 |
-| 2023 | 서울특별시 유공자 표창장 | 사회봉사 부문 | **표창장** | 서울특별시 |
+| 2023 | KHU Valley Program 10기 | 워킹홀리데이 통합 플랫폼 | **장려상 (50만원)** | 경희대학교 |
+| 2023 | 서울특별시 유공자 표창장 | 사회봉사 | **표창장** | 서울특별시 |
 
 ---
 
@@ -142,12 +132,10 @@
 ### 🔬 Research & Development
 - **시각장애인을 위한 앱 접근성 툴** (제작중, 논문 작성중)
 - **개인별 수요함수 모델링을 통한 맞춤 여행 정책 추천 시스템** (최인수, 임주현, 정유진)
-- **LLM 기반 가짜뉴스 탐지**
 - **GraphNN 기반 MLLM 작업 순서 align 기술**
 
 ### 📊 GitHub Stats
 ![Yuuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuujInJeong&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuujInJeong&layout=compact&theme=radical)
 
 ---
@@ -167,6 +155,19 @@
 - [🔍 BFS vs DFS](https://velog.io/@yujin_jeong/BFS-vs-DFS)
 - [MOVIE SHELF | AI로 영화플리 서비스 만들어본 후기](https://velog.io/@yujin_jeong/MOVIE-SHELF-AI%EB%A1%9C-%EC%98%81%ED%99%94%ED%94%8C%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%9C%EC%96%B4%EB%B3%B8-%ED%9B%84%EA%B8%B0)
 - [Lovart AI와 LLM의 사고 메커니즘](https://velog.io/@yujin_jeong/Lovart-AI%EC%99%80-LLM%EC%9D%98-%EC%82%AC%EA%B3%A0-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
+
+---
+
+## 🐾 GitAnimals
+<a href="https://github.com/devxb/gitanimals">
+ <img src="https://render.gitanimals.org/lines/YuujInJeong" width="1000" height="120"/>
+</a>
+
+---
+
+## 🎓 Education
+- **경희대학교 산업경영공학과** (2021.03 ~ 2026.02)
+- **안산동산고등학교** (2017 ~ 2019)
 
 ---
 
